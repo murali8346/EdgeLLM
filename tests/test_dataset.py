@@ -1,7 +1,7 @@
 from src.dataset import load_dataset, split_dataset
 
 
-DATASET_PATH = "data/raw/restaurant_intents.jsonl"
+DATASET_PATH = "data/raw/restaurant_intents_combined.jsonl"
 
 
 def main():
@@ -13,10 +13,10 @@ def main():
     print(f"Validation examples: {len(validation)}")
     print(f"Test examples: {len(test)}")
 
-    assert len(rows) == 200
-    assert len(train) == 160
-    assert len(validation) == 20
-    assert len(test) == 20
+    assert len(rows) == 600
+    assert len(train) == 480
+    assert len(validation) == 60
+    assert len(test) == 60
 
     print("\nDataset loading and splitting succeeded.")
 

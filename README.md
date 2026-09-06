@@ -280,7 +280,7 @@ For GPU-enabled PyTorch, install the appropriate PyTorch build for the local CUD
 ### Validate the Dataset
 
 ```powershell
-python test_dataset.py
+python tests/test_dataset.py
 ```
 
 ### Run the Traditional Baseline
