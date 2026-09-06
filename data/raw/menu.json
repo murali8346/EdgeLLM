@@ -1,0 +1,119 @@
+{
+  "restaurant_id": "demo_restaurant",
+  "restaurant_name": "Edge Bistro",
+  "currency": "INR",
+  "items": [
+    {
+      "id": "biryani_001",
+      "name": "Chicken Biryani",
+      "category": "Main Course",
+      "price": 220,
+      "available": true,
+      "description": "Aromatic basmati rice with spiced chicken.",
+      "customizations": {
+        "spice_level": [
+          "mild",
+          "medium",
+          "spicy"
+        ],
+        "add_ons": [
+          "extra egg",
+          "raita"
+        ],
+        "removable_ingredients": [
+          "onion",
+          "coriander"
+        ]
+      }
+    },
+    {
+      "id": "naan_001",
+      "name": "Plain Naan",
+      "category": "Breads",
+      "price": 45,
+      "available": true,
+      "description": "Soft Indian flatbread.",
+      "customizations": {
+        "add_ons": [
+          "butter"
+        ]
+      }
+    },
+    {
+      "id": "naan_002",
+      "name": "Butter Naan",
+      "category": "Breads",
+      "price": 60,
+      "available": true,
+      "description": "Soft naan topped with butter.",
+      "customizations": {}
+    },
+    {
+      "id": "paneer_001",
+      "name": "Paneer Butter Masala",
+      "category": "Main Course",
+      "price": 190,
+      "available": true,
+      "description": "Paneer cooked in a creamy tomato gravy.",
+      "customizations": {
+        "spice_level": [
+          "mild",
+          "medium",
+          "spicy"
+        ],
+        "add_ons": [
+          "extra gravy"
+        ]
+      }
+    },
+    {
+      "id": "friedrice_001",
+      "name": "Vegetable Fried Rice",
+      "category": "Main Course",
+      "price": 160,
+      "available": true,
+      "description": "Fried rice prepared with fresh vegetables.",
+      "customizations": {
+        "spice_level": [
+          "mild",
+          "medium",
+          "spicy"
+        ],
+        "removable_ingredients": [
+          "carrot",
+          "beans",
+          "spring onion"
+        ]
+      }
+    },
+    {
+      "id": "juice_001",
+      "name": "Fresh Lime Juice",
+      "category": "Beverages",
+      "price": 70,
+      "available": true,
+      "description": "Fresh lime juice served chilled.",
+      "customizations": {
+        "sweetness": [
+          "less sugar",
+          "normal sugar",
+          "extra sugar"
+        ],
+        "ice": [
+          "no ice",
+          "normal ice",
+          "extra ice"
+        ]
+      }
+    },
+    {
+      "id": "dessert_001",
+      "name": "Gulab Jamun",
+      "category": "Desserts",
+      "price": 90,
+      "available": true,
+      "description": "Soft milk-solid dumplings in sugar syrup.",
+      "customizations": {}
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{"text":"What is the difference between tandoori chicken and chicken tikka?","intent":"menu_question"}
+{"text":"Is the paneer used in the kadai paneer fresh?","intent":"menu_question"}
+{"text":"How much is a plate of chicken 65?","intent":"menu_question"}
+{"text":"Does the dal contain any dairy?","intent":"menu_question"}
+{"text":"Are there any dishes with no onion and no garlic?","intent":"menu_question"}
+{"text":"What is the spice level of the vindaloo?","intent":"menu_question"}
+{"text":"How many rotis come with the curry?","intent":"menu_question"}
+{"text":"Is the fish in the curry basa or pomfret?","intent":"menu_question"}
+{"text":"What desserts do you have that are sugar-free?","intent":"menu_question"}
+{"text":"Does the pav bhaji contain butter?","intent":"menu_question"}
+{"text":"What is the price of a king prawn biryani?","intent":"menu_question"}
+{"text":"Is the sambar made fresh daily?","intent":"menu_question"}
+{"text":"Do you have any gluten-free desserts?","intent":"menu_question"}
+{"text":"How is the chicken chettinad different from chicken curry?","intent":"menu_question"}
+{"text":"Are the momos steamed or fried by default?","intent":"menu_question"}
+{"text":"What comes with the chicken biryani?","intent":"menu_question"}
+{"text":"Is the raita made with curd or yogurt?","intent":"menu_question"}
+{"text":"How large is the portion of the fish thali?","intent":"menu_question"}
+{"text":"Does the paneer tikka have bell peppers?","intent":"menu_question"}
+{"text":"What is the price of a glass of fresh orange juice?","intent":"menu_question"}
+{"text":"What would you recommend for someone who loves garlic?","intent":"menu_recommendation"}
+{"text":"I need a quick lunch option, what do you suggest?","intent":"menu_recommendation"}
+{"text":"Suggest a dish that is not too heavy for dinner.","intent":"menu_recommendation"}
+{"text":"What is a good option for a couple on a date?","intent":"menu_recommendation"}
+{"text":"Can you recommend a signature dish of your restaurant?","intent":"menu_recommendation"}
+{"text":"I want something spicy but not too oily, any ideas?","intent":"menu_recommendation"}
+{"text":"What combo would you suggest for a business lunch?","intent":"menu_recommendation"}
+{"text":"Recommend a dessert that is not chocolate-based.","intent":"menu_recommendation"}
+{"text":"What is a good non-veg dish for a first-timer?","intent":"menu_recommendation"}
+{"text":"I'm in the mood for soup, what do you have?","intent":"menu_recommendation"}
+{"text":"Suggest a dish under ₹700 for one person.","intent":"menu_recommendation"}
+{"text":"What is the most popular vegetarian dish here?","intent":"menu_recommendation"}
+{"text":"Can you recommend a biryani that is not too spicy?","intent":"menu_recommendation"}
+{"text":"We have a kid with us, what would be suitable?","intent":"menu_recommendation"}
+{"text":"What starter would you suggest before a heavy meal?","intent":"menu_recommendation"}
+{"text":"I want something with coconut flavor, any recommendations?","intent":"menu_recommendation"}
+{"text":"What is a good option for someone who is gluten-free?","intent":"menu_recommendation"}
+{"text":"Recommend a dish that pairs well with naan.","intent":"menu_recommendation"}
+{"text":"I'm a regular, what's something new I can try?","intent":"menu_recommendation"}
+{"text":"What dessert would you suggest for a celebration?","intent":"menu_recommendation"}
+{"text":"Remove the potato from the dosa filling.","intent":"food_customization"}
+{"text":"Can you make the soup without pepper?","intent":"food_customization"}
+{"text":"I want extra gravy on my biryani.","intent":"food_customization"}
+{"text":"Please make the chicken kebab less charred.","intent":"food_customization"}
+{"text":"Add cashews to the curry.","intent":"food_customization"}
+{"text":"No mint leaves on the dish, please.","intent":"food_customization"}
+{"text":"Can you use less oil in the fried rice?","intent":"food_customization"}
+{"text":"I want my paratha with extra ghee.","intent":"food_customization"}
+{"text":"Make the fish curry less tangy.","intent":"food_customization"}
+{"text":"Serve the yogurt on the side, not mixed.","intent":"food_customization"}
+{"text":"Can I get the salad without onion?","intent":"food_customization"}
+{"text":"Add more mushrooms to the soup.","intent":"food_customization"}
+{"text":"Make the paneer tikka medium spicy.","intent":"food_customization"}
+{"text":"Don't add any ajwain to the naan.","intent":"food_customization"}
+{"text":"Please make the coffee less bitter.","intent":"food_customization"}
+{"text":"Can you cut the fruit into smaller pieces?","intent":"food_customization"}
+{"text":"I want my dosa filled with masala, not plain.","intent":"food_customization"}
+{"text":"Use brown bread for the sandwich instead of white.","intent":"food_customization"}
+{"text":"Add a boiled egg to the ramen.","intent":"food_customization"}
+{"text":"Make the gravy with almond paste instead of cream.","intent":"food_customization"}
+{"text":"I'd like a chicken curry and one garlic naan.","intent":"create_order"}
+{"text":"Can we get two plates of biryani?","intent":"create_order"}
+{"text":"One veg puff and one coffee.","intent":"create_order"}
+{"text":"Bring us a plate of chicken momos.","intent":"create_order"}
+{"text":"I want a mushroom tikka starter.","intent":"create_order"}
+{"text":"We'll take one paneer dosa and one onion rava dosa.","intent":"create_order"}
+{"text":"Could I have a glass of fresh watermelon juice?","intent":"create_order"}
+{"text":"We want one mutton thali and one fish thali.","intent":"create_order"}
+{"text":"Please get me a plate of bhel puri.","intent":"create_order"}
+{"text":"One cheese naan and a dal fry.","intent":"create_order"}
+{"text":"I'd like to order a chicken salad.","intent":"create_order"}
+{"text":"Can we have two cups of green tea?","intent":"create_order"}
+{"text":"Bring one portion of veg hakka noodles.","intent":"create_order"}
+{"text":"I want a cold coffee with ice cream.","intent":"create_order"}
+{"text":"We'll start with a plate of onion pakoras.","intent":"create_order"}
+{"text":"One kadai chicken and three rotis.","intent":"create_order"}
+{"text":"Please bring a chocolate brownie and one vanilla scoop.","intent":"create_order"}
+{"text":"I'll take a fish finger starter.","intent":"create_order"}
+{"text":"Can we order a large pizza with extra cheese?","intent":"create_order"}
+{"text":"One mango lassi and a plate of samosas.","intent":"create_order"}
+{"text":"Add a plate of french fries to our order.","intent":"modify_order"}
+{"text":"Change the chicken curry to a paneer curry.","intent":"modify_order"}
+{"text":"Make that three dosas instead of two.","intent":"modify_order"}
+{"text":"Add extra butter to the naan we ordered.","intent":"modify_order"}
+{"text":"Replace the sweet lassi with a salted one.","intent":"modify_order"}
+{"text":"I want to change my pizza from veg to chicken.","intent":"modify_order"}
+{"text":"Add one more cup of coffee to the existing order.","intent":"modify_order"}
+{"text":"Instead of rice, can I get noodles with the curry?","intent":"modify_order"}
+{"text":"Make the biryani less spicy than I originally asked.","intent":"modify_order"}
+{"text":"Add a side salad to our order.","intent":"modify_order"}
+{"text":"Change the regular naan to garlic naan.","intent":"modify_order"}
+{"text":"We want to add a starter of fish tikka.","intent":"modify_order"}
+{"text":"Remove the extra onions from the salad.","intent":"modify_order"}
+{"text":"Add an extra plate of rice to our order.","intent":"modify_order"}
+{"text":"Make the soup a large bowl instead of small.","intent":"modify_order"}
+{"text":"Replace the veg noodles with chicken noodles.","intent":"modify_order"}
+{"text":"Add one more dessert to the table.","intent":"modify_order"}
+{"text":"Change the plain dosa to a masala dosa.","intent":"modify_order"}
+{"text":"We need two more glasses of water with our order.","intent":"modify_order"}
+{"text":"Cancel the fish tikka starter.","intent":"cancel_order"}
+{"text":"Remove the extra cheese from the pizza order.","intent":"cancel_order"}
+{"text":"We don't want the coffee anymore, cancel it.","intent":"cancel_order"}
+{"text":"Please cancel the plate of noodles.","intent":"cancel_order"}
+{"text":"Cancel the entire order for our table.","intent":"cancel_order"}
+{"text":"I want to cancel the chicken salad.","intent":"cancel_order"}
+{"text":"Forget the onion pakoras, cancel them.","intent":"cancel_order"}
+{"text":"Cancel the mango lassi I ordered.","intent":"cancel_order"}
+{"text":"Remove the dal fry from our order.","intent":"cancel_order"}
+{"text":"We changed our mind about the dessert, cancel it.","intent":"cancel_order"}
+{"text":"Cancel the extra naan we added.","intent":"cancel_order"}
+{"text":"I'd like to cancel the mutton thali.","intent":"cancel_order"}
+{"text":"Do not bring the cold coffee, cancel it.","intent":"cancel_order"}
+{"text":"Cancel the green tea order.","intent":"cancel_order"}
+{"text":"Remove the chicken momos from our order.","intent":"cancel_order"}
+{"text":"We won't need the pizza, please cancel.","intent":"cancel_order"}
+{"text":"Cancel the veg puff I ordered.","intent":"cancel_order"}
+{"text":"Please cancel the bhel puri.","intent":"cancel_order"}
+{"text":"I want to cancel the kadai chicken.","intent":"cancel_order"}
+{"text":"Cancel the chocolate brownie.","intent":"cancel_order"}
+{"text":"Can we get the bill for our order?","intent":"bill_request"}
+{"text":"Please bring the check for two.","intent":"bill_request"}
+{"text":"I want to pay the bill now.","intent":"bill_request"}
+{"text":"What is the total for our table?","intent":"bill_request"}
+{"text":"Can you prepare the bill, please?","intent":"bill_request"}
+{"text":"We would like to split the bill.","intent":"bill_request"}
+{"text":"How much is the damage?","intent":"bill_request"}
+{"text":"I need to pay by card, can you bring the machine?","intent":"bill_request"}
+{"text":"Please bring the bill along with some change.","intent":"bill_request"}
+{"text":"Check for table four, please.","intent":"bill_request"}
+{"text":"Can we pay using UPI?","intent":"bill_request"}
+{"text":"I'd like the bill with a detailed breakdown.","intent":"bill_request"}
+{"text":"What is the final total including GST?","intent":"bill_request"}
+{"text":"We are ready to settle up.","intent":"bill_request"}
+{"text":"Bring the bill as soon as possible.","intent":"bill_request"}
+{"text":"I'll pay by cash, please bring the check.","intent":"bill_request"}
+{"text":"Can you tell me the amount?","intent":"bill_request"}
+{"text":"We want one bill for the entire group.","intent":"bill_request"}
+{"text":"Please charge the amount to my card.","intent":"bill_request"}
+{"text":"Can we get separate bills for each person?","intent":"bill_request"}
+{"text":"Where is our paneer tikka?","intent":"order_status"}
+{"text":"How long for the chicken biryani?","intent":"order_status"}
+{"text":"Has the food been prepared yet?","intent":"order_status"}
+{"text":"Is the naan coming soon?","intent":"order_status"}
+{"text":"Can you check on the status of our starters?","intent":"order_status"}
+{"text":"We ordered the mutton curry, how much longer?","intent":"order_status"}
+{"text":"Why is the order taking so long?","intent":"order_status"}
+{"text":"What's the ETA for the dosas?","intent":"order_status"}
+{"text":"Is the dessert ready?","intent":"order_status"}
+{"text":"Please check with the kitchen about our order.","intent":"order_status"}
+{"text":"We've been waiting 25 minutes for the pizza.","intent":"order_status"}
+{"text":"When will the fish curry be out?","intent":"order_status"}
+{"text":"Has the chef started on our biryani?","intent":"order_status"}
+{"text":"Any news on the starters?","intent":"order_status"}
+{"text":"Is my cold drink coming?","intent":"order_status"}
+{"text":"How much more time for the main course?","intent":"order_status"}
+{"text":"Are the rotis being made?","intent":"order_status"}
+{"text":"We need our food soon, what's the status?","intent":"order_status"}
+{"text":"Is the order almost ready?","intent":"order_status"}
+{"text":"Can you give us an update on the food?","intent":"order_status"}
+{"text":"Can you bring some extra plates and spoons?","intent":"special_request"}
+{"text":"Please send someone to clear the table.","intent":"special_request"}
+{"text":"We need a high chair for our toddler.","intent":"special_request"}
+{"text":"Could I get a glass of water without ice?","intent":"special_request"}
+{"text":"Can you arrange a birthday candle on the dessert?","intent":"special_request"}
+{"text":"Bring us more napkins, please.","intent":"special_request"}
+{"text":"We need a clean knife and fork.","intent":"special_request"}
+{"text":"Please ask the manager to visit our table.","intent":"special_request"}
+{"text":"Can you make the room warmer?","intent":"special_request"}
+{"text":"We need an extra stool for a bag.","intent":"special_request"}
+{"text":"Please bring a bowl of hot water.","intent":"special_request"}
+{"text":"Could you clean this table, it's sticky.","intent":"special_request"}
+{"text":"Can I have a paper straw?","intent":"special_request"}
+{"text":"We need some wet wipes.","intent":"special_request"}
+{"text":"Can you arrange a small surprise cake?","intent":"special_request"}
+{"text":"Please help me cut the birthday cake.","intent":"special_request"}
+{"text":"Can you warm this milk for the baby?","intent":"special_request"}
+{"text":"Pack the leftover curry and rice.","intent":"special_request"}
+{"text":"I need an extra bowl of sambar.","intent":"special_request"}
+{"text":"Is there a wheelchair accessible entrance?","intent":"special_request"}
+{"text":"What is the capital of Australia?","intent":"unknown"}
+{"text":"Can you play a YouTube video?","intent":"unknown"}
+{"text":"I need help with my homework.","intent":"unknown"}
+{"text":"Tell me a fun fact.","intent":"unknown"}
+{"text":"How do I reset my password?","intent":"unknown"}
+{"text":"What is the score of the India match?","intent":"unknown"}
+{"text":"Book a cab for me.","intent":"unknown"}
+{"text":"What is the latest tech news?","intent":"unknown"}
+{"text":"Can you call my phone?","intent":"unknown"}
+{"text":"Where can I buy a laptop?","intent":"unknown"}
+{"text":"I need to order groceries.","intent":"unknown"}
+{"text":"What does this word mean?","intent":"unknown"}
+{"text":"Play a song from Diljit Dosanjh.","intent":"unknown"}
+{"text":"How tall is the Burj Khalifa?","intent":"unknown"}
+{"text":"Can you translate this sentence?","intent":"unknown"}
+{"text":"What is the price of Bitcoin?","intent":"unknown"}
+{"text":"I want to book a train ticket.","intent":"unknown"}
+{"text":"Tell me a riddle.","intent":"unknown"}
+{"text":"How do I apply for a visa?","intent":"unknown"}
+{"text":"Can you set a reminder for me?","intent":"unknown"}
+{"text":"Add one more plate of biryani to our existing order.","intent":"modify_order"}
